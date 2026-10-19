@@ -1,0 +1,218 @@
+
+[
+  {
+    "id": "post-01",
+    "content": "Discover our latest product launch and what makes it special!",
+    "platforms": ["instagram", "facebook"],
+    "mediaUrl": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+    "scheduledAt": "2026-10-14T12:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-02",
+    "content": "Five simple tips to make your workday more productive.",
+    "platforms": ["x", "facebook"],
+    "scheduledAt": "2026-10-14T14:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-03",
+    "content": "Behind the scenes: how our team brings ideas to life.",
+    "platforms": ["instagram", "tiktok"],
+    "scheduledAt": "2026-10-14T16:00:00.000Z",
+    "status": "failed",
+    "errorMessage": "Simulated publishing failure. Please retry."
+  },
+  {
+    "id": "post-04",
+    "content": "Thank you to our amazing community for your continued support.",
+    "platforms": ["facebook"],
+    "scheduledAt": "2026-10-14T18:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-05",
+    "content": "A quick look at the features you have been asking for.",
+    "platforms": ["x", "instagram"],
+    "scheduledAt": "2026-10-14T20:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-06",
+    "content": "Start your day with a fresh perspective and a clear goal.",
+    "platforms": ["facebook", "tiktok"],
+    "scheduledAt": "2026-10-15T03:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-07",
+    "content": "Here is what we learned from our latest customer feedback.",
+    "platforms": ["instagram"],
+    "scheduledAt": "2026-10-15T05:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-08",
+    "content": "Three ways to simplify your weekly planning routine.",
+    "platforms": ["x", "facebook"],
+    "scheduledAt": "2026-10-15T07:30:00.000Z",
+    "status": "failed",
+    "errorMessage": "Temporary network error. Please retry."
+  },
+  {
+    "id": "post-09",
+    "content": "Our community spotlight: celebrating creative ideas.",
+    "platforms": ["tiktok", "instagram"],
+    "scheduledAt": "2026-10-15T09:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-10",
+    "content": "Small steps can make a meaningful difference over time.",
+    "platforms": ["facebook"],
+    "scheduledAt": "2026-10-15T11:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-11",
+    "content": "A quick reminder to take a break and recharge today.",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-16T04:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-12",
+    "content": "Explore our newest collection and find your favorite.",
+    "platforms": ["instagram", "facebook"],
+    "scheduledAt": "2026-10-16T06:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-13",
+    "content": "A little progress every day adds up to big results.",
+    "platforms": ["tiktok"],
+    "scheduledAt": "2026-10-16T08:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-14",
+    "content": "What is one goal you are working toward this week?",
+    "platforms": ["x", "instagram"],
+    "scheduledAt": "2026-10-16T10:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-15",
+    "content": "We appreciate every suggestion that helps us improve.",
+    "platforms": ["facebook", "tiktok"],
+    "scheduledAt": "2026-10-16T13:00:00.000Z",
+    "status": "failed",
+    "errorMessage": "Simulated platform error. Please retry."
+  },
+  {
+    "id": "post-16",
+    "content": "Weekend inspiration: make time for what matters.",
+    "platforms": ["instagram"],
+    "scheduledAt": "2026-10-17T05:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-17",
+    "content": "Our favorite highlights from this week, all in one place.",
+    "platforms": ["facebook", "x"],
+    "scheduledAt": "2026-10-17T07:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-18",
+    "content": "New video alert! Watch our latest tips and tricks.",
+    "platforms": ["tiktok", "instagram"],
+    "scheduledAt": "2026-10-17T09:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-19",
+    "content": "Tell us which feature you would like to see next.",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-17T12:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-20",
+    "content": "A fresh week is a fresh opportunity to create something great.",
+    "platforms": ["facebook", "instagram"],
+    "scheduledAt": "2026-10-18T04:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-21",
+    "content": "Here are three ideas to inspire your next project.",
+    "platforms": ["tiktok"],
+    "scheduledAt": "2026-10-18T06:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-22",
+    "content": "Thanks for being part of our journey. More exciting things are coming!",
+    "platforms": ["instagram", "x"],
+    "scheduledAt": "2026-10-18T08:30:00.000Z",
+    "status": "failed",
+    "errorMessage": "Unable to publish. Please retry."
+  },
+  {
+    "id": "post-23",
+    "content": "Let's make this week count. What is your main focus?",
+    "platforms": ["facebook"],
+    "scheduledAt": "2026-10-19T04:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-24",
+    "content": "Your feedback helps us create a better experience.",
+    "platforms": ["instagram", "tiktok"],
+    "scheduledAt": "2026-10-19T06:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-25",
+    "content": "New week, new ideas. Share yours with us!",
+    "platforms": ["x", "facebook"],
+    "scheduledAt": "2026-10-20T05:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-26",
+    "content": "A closer look at the details that make a difference.",
+    "platforms": ["instagram"],
+    "scheduledAt": "2026-10-20T08:00:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-27",
+    "content": "Save this post for a little inspiration later.",
+    "platforms": ["tiktok", "facebook"],
+    "scheduledAt": "2026-10-21T04:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-28",
+    "content": "What is your favorite way to stay organized?",
+    "platforms": ["x"],
+    "scheduledAt": "2026-10-21T07:00:00.000Z",
+    "status": "published"
+  },
+  {
+    "id": "post-29",
+    "content": "A quick update on what our team is building this month.",
+    "platforms": ["facebook", "instagram"],
+    "scheduledAt": "2026-10-22T05:30:00.000Z",
+    "status": "scheduled"
+  },
+  {
+    "id": "post-30",
+    "content": "Thank you for following along. Stay tuned for more updates!",
+    "platforms": ["tiktok", "x"],
+    "scheduledAt": "2026-10-23T09:00:00.000Z",
+    "status": "scheduled"
+  }
+]
